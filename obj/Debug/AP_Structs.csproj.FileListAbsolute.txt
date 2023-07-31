@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Structs\AP_Structs\bin\Debug\AP_Structs.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Structs\AP_Structs\bin\Debug\AP_Structs.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Structs\AP_Structs\bin\Debug\AP_Structs.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Structs\AP_Structs\obj\Debug\AP_Structs.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Structs\AP_Structs\obj\Debug\AP_Structs.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Structs\AP_Structs\obj\Debug\AP_Structs.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Structs\AP_Structs\obj\Debug\AP_Structs.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_Structs\AP_Structs\obj\Debug\AP_Structs.pdb
